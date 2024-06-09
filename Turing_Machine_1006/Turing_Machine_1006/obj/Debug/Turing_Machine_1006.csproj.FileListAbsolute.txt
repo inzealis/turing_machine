@@ -1,0 +1,11 @@
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\bin\Debug\Turing_Machine_1006.exe.config
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\bin\Debug\Turing_Machine_1006.exe
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\bin\Debug\Turing_Machine_1006.pdb
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\obj\Debug\Turing_Machine_1006.csproj.AssemblyReference.cache
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\obj\Debug\Turing_Machine_1006.Form1.resources
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\obj\Debug\Turing_Machine_1006.Properties.Resources.resources
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\obj\Debug\Turing_Machine_1006.csproj.GenerateResource.cache
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\obj\Debug\Turing_Machine_1006.csproj.CoreCompileInputs.cache
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\obj\Debug\Turing_Machine_1006.exe
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\obj\Debug\Turing_Machine_1006.pdb
+D:\3 семестр\Turing_Machine_1006\Turing_Machine_1006\obj\Debug\Turing_Machine_1006.Form2.resources
